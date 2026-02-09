@@ -5,6 +5,7 @@ A modern, elegant, and fully responsive portfolio website built with pure HTML,C
 ![Portfolio Preview](https://img.shields.io/badge/Status-Ready-success)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1572B6?logo=js&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-green)
 
 ---
