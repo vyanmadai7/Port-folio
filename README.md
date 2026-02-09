@@ -21,8 +21,8 @@ A modern, elegant, and fully responsive portfolio website built with pure HTML,C
 
 1. **Clone or Download** the repository
 ```bash
-git clone https://github.com/vyanmadai7/portfolio.git
-cd portfolio
+git clone https://github.com/vyanmadai7/port-folio.git
+cd port-folio
 ```
 
 2. **Add Your Profile Image**
