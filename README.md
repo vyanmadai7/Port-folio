@@ -48,7 +48,7 @@ Visit the live site: [vyanmadai.com](https://vyanmadai.com)
 - n8n Automation
 - UI/UX Design (Figma)
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - A modern web browser
@@ -93,7 +93,7 @@ Visit the live site: [vyanmadai.com](https://vyanmadai.com)
      npx http-server
      ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Port-folio/
@@ -106,10 +106,12 @@ Port-folio/
 │   └── [skill-logos].webp
 │
 ├── index.html                 # Main HTML file
+|-- styles.css
+|-- script.js
 └── README.md                  # Documentation
 ```
 
-## 🎨 Customization
+##  Customization
 
 ### Colors
 The site uses CSS custom properties for easy theming. Modify the `:root` and `[data-theme="dark"]` variables:
@@ -165,7 +167,7 @@ Update SEO and social media meta tags in the `<head>`:
 <meta name="twitter:creator" content="@yourhandle">
 ```
 
-## 🌐 Deployment
+##  Deployment
 
 ### GitHub Pages
 1. Go to repository Settings → Pages
@@ -195,7 +197,7 @@ vercel
 - Reduced motion support
 - High contrast ratios
 
-## 📱 Browser Support
+##  Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
@@ -203,11 +205,11 @@ vercel
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 🐛 Known Issues
+##  Known Issues
 
 None currently. Please report issues on the [Issues](https://github.com/vyanmadai7/Port-folio/issues) page.
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - [ ] Blog section
 - [ ] Project filtering by technology
@@ -216,7 +218,7 @@ None currently. Please report issues on the [Issues](https://github.com/vyanmada
 - [ ] Backend integration for contact form
 - [ ] Analytics integration
 
-## 🤝 Contributing
+##  Contributing
 
 While this is a personal portfolio, suggestions and improvements are welcome!
 
@@ -226,11 +228,11 @@ While this is a personal portfolio, suggestions and improvements are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+##  Author
 
 **Vyan Madai**
 
@@ -240,7 +242,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Twitter: [@vyanmadai](https://x.com/vyanmadai)
 - Email: thevyanmadai@gmail.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Font Awesome for icons
 - Google Fonts for typography
@@ -248,7 +250,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - The web development community for inspiration
 
 ---
-
-⭐ If you found this helpful, please consider giving it a star!
-
-**Made with ❤️ by Vyan Madai**
