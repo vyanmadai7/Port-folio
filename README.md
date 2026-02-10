@@ -1,10 +1,9 @@
-# 🌟 Personal Portfolio Website
+#  Personal Portfolio Website
 
 A modern, responsive portfolio website showcasing my projects, skills, and contact information. Built with vanilla HTML, CSS, and JavaScript with a focus on accessibility, performance, and clean design.
 
-![Portfolio Preview](images/preview.png)
 
-## ✨ Features
+##  Features
 
 - **Responsive Design** - Fully optimized for desktop, tablet, and mobile devices
 - **Dark/Light Theme** - Toggle between themes with persistent preference storage
@@ -15,18 +14,18 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
 - **Performance** - Optimized loading with lazy loading images and efficient CSS
 - **Modern UI/UX** - Clean, professional design with smooth transitions
 
-## 🚀 Live Demo
+##  Live Demo
 
 Visit the live site: [vyanmadai.com](https://vyanmadai.com)
 
-## 📋 Sections
+##  Sections
 
 1. **Home** - Introduction and hero section with social links
 2. **About** - Background information and comprehensive skills showcase
 3. **Projects** - Portfolio of featured projects with live demos and source code
 4. **Contact** - Get in touch via contact form or social media
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 - HTML5
