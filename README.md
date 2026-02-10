@@ -1,6 +1,6 @@
 #  Personal Portfolio Website
 
-A modern, responsive portfolio website showcasing my projects, skills, and contact information. Built with vanilla HTML, CSS, and JavaScript with a focus on accessibility, performance, and clean design.
+A modern, responsive portfolio website showcasing my projects, skills, and contact information. Built with vanilla HTML, CSS, and JavaScript with a focus on accessibility, performance, and clean design...
 
 
 ##  Features
