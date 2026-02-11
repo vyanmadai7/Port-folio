@@ -248,5 +248,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Google Fonts for typography
 - EmailJS for form functionality
 - The web development community for inspiration
-
----
