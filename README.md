@@ -14,10 +14,6 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
 - **Performance** - Optimized loading with lazy loading images and efficient CSS
 - **Modern UI/UX** - Clean, professional design with smooth transitions
 
-##  Live Demo
-
-Visit the live site: [vyanmadai.com](https://vyanmadai.com)
-
 ##  Sections
 
 1. **Home** - Introduction and hero section with social links
