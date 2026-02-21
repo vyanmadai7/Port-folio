@@ -5,50 +5,50 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
 
 ##  Features
 
-- **Responsive Design** - Fully optimized for desktop, tablet, and mobile devices
-- **Dark/Light Theme** - Toggle between themes with persistent preference storage
-- **Smooth Animations** - Intersection Observer API for scroll-triggered animations
-- **Accessibility First** - WCAG compliant with ARIA labels, keyboard navigation, and screen reader support
-- **Contact Form** - Integrated with EmailJS for seamless message delivery
-- **SEO Optimized** - Meta tags, Open Graph, and Twitter Cards configured
-- **Performance** - Optimized loading with lazy loading images and efficient CSS
+- **Responsive Design** - Fully optimized for desktop, tablet, and mobile devices<br>
+- **Dark/Light Theme** - Toggle between themes with persistent preference storage<br>
+- **Smooth Animations** - Intersection Observer API for scroll-triggered animations<br>
+- **Accessibility First** - WCAG compliant with ARIA labels, keyboard navigation, and screen reader support<br>
+- **Contact Form** - Integrated with EmailJS for seamless message delivery<br>
+- **SEO Optimized** - Meta tags, Open Graph, and Twitter Cards configured<br>
+- **Performance** - Optimized loading with lazy loading images and efficient CSS<br>
 - **Modern UI/UX** - Clean, professional design with smooth transitions
 
 ##  Sections
 
-1. **Home** - Introduction and hero section with social links
-2. **About** - Background information and comprehensive skills showcase
-3. **Projects** - Portfolio of featured projects with live demos and source code
+1. **Home** - Introduction and hero section with social links<br>
+2. **About** - Background information and comprehensive skills showcase<br>
+3. **Projects** - Portfolio of featured projects with live demos and source code<br>
 4. **Contact** - Get in touch via contact form or social media
 
 ##  Technologies Used
 
 ### Frontend
-- HTML5
-- CSS3 (Custom Properties, Grid, Flexbox)
+- HTML5<br>
+- CSS3 (Custom Properties, Grid, Flexbox)<br>
 - Vanilla JavaScript (ES6+)
 
 ### Tools & Libraries
-- [Font Awesome](https://fontawesome.com/) - Icons
-- [Google Fonts (Poppins)](https://fonts.google.com/) - Typography
+- [Font Awesome](https://fontawesome.com/) - Icons<br>
+- [Google Fonts (Poppins)](https://fonts.google.com/) - Typography<br>
 - [EmailJS](https://www.emailjs.com/) - Contact form functionality
 
 ### Skills Highlighted
-- React & React Native
-- Python & Django
-- Django REST Framework
-- MySQL & MongoDB
-- Git & GitHub
-- Docker & Kubernetes
-- Jenkins & Terraform
-- n8n Automation
-- UI/UX Design (Figma)
+- React & React Native<br>
+- Python & Django<br>
+- Django REST Framework<br>
+- MySQL & MongoDB<br>
+- Git & GitHub<br>
+- Docker & Kubernetes<br>
+- Jenkins & Terraform<br>
+- n8n Automation<br>
+- UI/UX Design (Figma)<br>
 
 ##  Installation & Setup
 
 ### Prerequisites
-- A modern web browser
-- Text editor (VS Code recommended)
+- A modern web browser<br>
+- Text editor (VS Code recommended)<br>
 - EmailJS account (for contact form)
 
 ### Local Development
