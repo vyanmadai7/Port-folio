@@ -55,14 +55,14 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
 
 1. **Clone the repository**
    ```bash<br>
-   git clone https://github.com/vyanmadai7/Port-folio.git<br>
-   cd Port-folio<br>
+   git clone https://github.com/vyanmadai7/Port-folio.git
+   cd Port-folio
    ```
 
 2. **Configure EmailJS**
    - Sign up at [EmailJS](https://www.emailjs.com/)
-   - Create an email service and template
-   - Replace the placeholders in the script section:
+   - Create an email service and template<br>
+   - Replace the placeholders in the script section:<br>
      ```javascript
      emailjs.init('YOUR_PUBLIC_KEY');
      
@@ -72,10 +72,10 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
      ```
 
 3. **Update Personal Information**
-   - Edit the HTML file to replace:
-     - Email addresses
-     - Social media links
-     - Project details and links
+   - Edit the HTML file to replace:<br>
+     - Email addresses<br>
+     - Social media links<br>
+     - Project details and links<br>
      - Profile images (in `/images` folder)
 
 4. **Run Locally**
