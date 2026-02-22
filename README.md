@@ -19,19 +19,19 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
 1. **Home** - Introduction and hero section with social links<br>
 2. **About** - Background information and comprehensive skills showcase<br>
 3. **Projects** - Portfolio of featured projects with live demos and source code<br>
-4. **Contact** - Get in touch via contact form or social media
+4. **Contact** - Get in touch via contact form or social media<br>
 
 ##  Technologies Used
 
 ### Frontend
 - HTML5<br>
 - CSS3 (Custom Properties, Grid, Flexbox)<br>
-- Vanilla JavaScript (ES6+)
+- Vanilla JavaScript (ES6+)<br>
 
 ### Tools & Libraries
 - [Font Awesome](https://fontawesome.com/) - Icons<br>
 - [Google Fonts (Poppins)](https://fonts.google.com/) - Typography<br>
-- [EmailJS](https://www.emailjs.com/) - Contact form functionality
+- [EmailJS](https://www.emailjs.com/) - Contact form functionality<br>
 
 ### Skills Highlighted
 - React & React Native<br>
@@ -49,14 +49,14 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
 ### Prerequisites
 - A modern web browser<br>
 - Text editor (VS Code recommended)<br>
-- EmailJS account (for contact form)
+- EmailJS account (for contact form)<br>
 
 ### Local Development
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/vyanmadai7/Port-folio.git
-   cd Port-folio
+   ```bash<br>
+   git clone https://github.com/vyanmadai7/Port-folio.git<br>
+   cd Port-folio<br>
    ```
 
 2. **Configure EmailJS**
