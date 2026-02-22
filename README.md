@@ -12,7 +12,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
 - **Contact Form** - Integrated with EmailJS for seamless message delivery<br>
 - **SEO Optimized** - Meta tags, Open Graph, and Twitter Cards configured<br>
 - **Performance** - Optimized loading with lazy loading images and efficient CSS<br>
-- **Modern UI/UX** - Clean, professional design with smooth transitions
+- **Modern UI/UX** - Clean, professional design with smooth transitions<br>
 
 ##  Sections
 
