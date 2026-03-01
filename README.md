@@ -53,7 +53,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
 
 ### Local Development
 
-1. **Clone the repository**
+1. **Clone the repository...**
    ```bash<br>
    git clone https://github.com/vyanmadai7/Port-folio.git
    cd Port-folio
