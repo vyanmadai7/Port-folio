@@ -59,7 +59,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
    cd Port-folio
    ```
 
-2. **Configure EmailJS**
+2. **Configure EmailJS...**
    - Sign up at [EmailJS](https://www.emailjs.com/)
    - Create an email service and template<br>
    - Replace the placeholders in the script section:<br>
@@ -71,14 +71,14 @@ A modern, responsive portfolio website showcasing my projects, skills, and conta
      })
      ```
 
-3. **Update Personal Information**
+3. **Update Personal Information...**
    - Edit the HTML file to replace:<br>
      - Email addresses<br>
      - Social media links<br>
      - Project details and links<br>
      - Profile images (in `/images` folder)
 
-4. **Run Locally**
+4. **Run Locally...**
    - Open `index.html` in your browser, or
    - Use a local server:
      ```bash
